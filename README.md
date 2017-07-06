@@ -1,2 +1,2 @@
 # test-git
-just my test for git test
+just a test for remote github repository
